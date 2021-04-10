@@ -7,7 +7,7 @@
 &nbsp;
 
 <h2 align="center">
-  Hey 👋, I'm Dinesh ( Friends call me *Dinni* )
+  Hey 👋, I'm Dinesh ( Friends call me "Dinni" )
 </h2>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 **🕺 About Me:**
 
- - 🛸  Developer at <a href="https:/dizivizi.com">DiziVizi</a>, Open Source Contributer
+ - 🛸  Developer at <a href="https:/dizivizi.com">DiziVizi</a>, Open Source Contributor
  - 💼  Founder of OpenLancers
  - ✈️  Berlin, Germany
  - 🏀  Basketball, Badminton, Soccer, Table Tennis, Volleyball
