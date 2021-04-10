@@ -18,9 +18,9 @@
 
 **🌍 Open source projects:**
 
--[Highely](https://github.com/IamDinni/highely)- 🔰 Highlight Elements on Snapshot using given XML/JSON
+- [Highely](https://github.com/IamDinni/highely)- 🔰 Highlight Elements on Snapshot using given XML/JSON
 
--[Game Lockdown](https://github.com/IamDinni/Lockdown) - 🔒 Lockdown outside 🌄 Nature Inside
+- [Game Lockdown](https://github.com/IamDinni/Lockdown) - 🔒 Lockdown outside 🌄 Nature Inside
 
 - [Cryptocurrency](https://github.com/IamDinni/Cryptocurrency) - 💰 A short module that can save your precious time that you spend checking the right time to buy a 💵 cryptocurrency.
 
