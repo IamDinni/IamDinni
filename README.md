@@ -13,12 +13,16 @@
 <p align="center">
     Working on Data Science projects with some full Stack Development
 </p>
-
+m
 &nbsp;
 
 **🌍 Open source projects:**
 
 - [Highely](https://github.com/IamDinni/highely)- 🔰 Highlight Elements on Snapshot using given XML/JSON
+
+- [EscapeMap](https://github.com/IamDinni/EscapeMap) - 📢 Final Boarding Call
+
+- [EscapeFast](https://github.com/IamDinni/EscapeFast) - FastAPI backend with Fuzzy search APIs, Indexing & autocomplete features. (ref: EscapeMap)
 
 - [Game Lockdown](https://github.com/IamDinni/Lockdown) - 🔒 Lockdown outside 🌄 Nature Inside
 
