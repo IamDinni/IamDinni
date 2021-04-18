@@ -13,7 +13,7 @@
 <p align="center">
     Working on Data Science projects with some full Stack Development
 </p>
-m
+
 &nbsp;
 
 **🌍 Open source projects:**
