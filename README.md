@@ -7,7 +7,7 @@
 &nbsp;
 
 <h2 align="center">
-  Hey 👋, I'm Dinesh ( Friends call me "Dinni" )
+  Hey 👋, I'm Dinesh
 </h2>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 **🌍 Open source projects:**
 
-- [Highely](https://github.com/IamDinni/highely)- 🔰 Highlight Elements on Snapshot using given XML/JSON
-
 - [EscapeMap](https://github.com/IamDinni/EscapeMap) - 📢 Final Boarding Call
+
+- [Highely](https://github.com/IamDinni/highely)- 🔰 Highlight Elements on Snapshot using given XML/JSON
 
 - [EscapeFast](https://github.com/IamDinni/EscapeFast) - FastAPI backend with Fuzzy search APIs, Indexing & autocomplete features. (ref: EscapeMap)
 
