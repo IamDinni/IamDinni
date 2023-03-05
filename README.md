@@ -36,11 +36,10 @@
 
 **🕺 About Me:**
 
- - 🛸  Developer at <a href="https:/dizivizi.com">DiziVizi</a>, Open Source Contributor
+ - 🛸 Open Source Contributor
  - 💼  Founder of OpenLancers
  - ✈️  Berlin, Germany
  - 🏀  Basketball, Badminton, Soccer, Table Tennis, Volleyball
- - 🎂  17th of July
 
 &nbsp;
 
