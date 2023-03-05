@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-    Working on Data Science projects with some full Stack Development
+    Creator, adventurer, and lover of all things creative. 🤘😎
 </p>
 
 &nbsp;
